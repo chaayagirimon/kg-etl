@@ -1,7 +1,0 @@
-=== Tue Sep 23 16:07:06 CEST 2025 ===
-FILE: neo4j_cypher/07_load_airbnb_hosts_and_edges.cypher
-URI : neo4j://localhost:7687  DB: neo4j  USER: neo4j
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-OK  : neo4j_cypher/07_load_airbnb_hosts_and_edges.cypher
-=== Tue Sep 23 16:07:16 CEST 2025 ===

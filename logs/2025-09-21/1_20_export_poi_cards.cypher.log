@@ -1,9 +1,0 @@
-=== Sun Sep 21 10:48:45 CEST 2025 ===
-FILE: neo4j_cypher/20_export_poi_cards.cypher
-URI : bolt://localhost:7687  DB: neo4j  USER: neo4j
-------------------------------------------------------------------------
-file, source, format, nodes, relationships, properties, time, rows, batchSize, batches, done, data
-"/opt/homebrew/Cellar/neo4j/2025.08.0/libexec/import/poi_cards.json", "statement: cols(1)", "json", 0, 0, 240892, 679, 24145, -1, 0, TRUE, NULL
-------------------------------------------------------------------------
-OK  : neo4j_cypher/20_export_poi_cards.cypher
-=== Sun Sep 21 10:48:47 CEST 2025 ===
