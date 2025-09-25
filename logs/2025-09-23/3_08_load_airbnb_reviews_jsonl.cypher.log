@@ -1,0 +1,9 @@
+=== Tue Sep 23 16:07:16 CEST 2025 ===
+FILE: neo4j_cypher/08_load_airbnb_reviews_jsonl.cypher
+URI : neo4j://localhost:7687  DB: neo4j  USER: neo4j
+------------------------------------------------------------------------
+batches, total, timeTaken, committedOperations, failedOperations, failedBatches, retries, errorMessages, batch, operations, wasTerminated, failedParams, updateStatistics
+1434, 28666240, 576, 28666240, 0, 0, 0, {}, {total: 1434, committed: 1434, failed: 0, errors: {}}, {total: 28666240, committed: 28666240, failed: 0, errors: {}}, FALSE, {}, {nodesDeleted: 0, labelsAdded: 0, relationshipsCreated: 0, nodesCreated: 0, propertiesSet: 143331200, relationshipsDeleted: 0, labelsRemoved: 0}
+------------------------------------------------------------------------
+OK  : neo4j_cypher/08_load_airbnb_reviews_jsonl.cypher
+=== Tue Sep 23 16:16:54 CEST 2025 ===

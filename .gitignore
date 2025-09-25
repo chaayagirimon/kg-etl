@@ -1,0 +1,13 @@
+.env
+.*/
+data/
+artifacts/
+models/
+store/
+__pycache__
+*.xlsx
+*.csv
+*.json
+*.npy
+*.npz
+.DS_Store
